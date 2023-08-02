@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visa-application-website-API", "visa-application-website-API\visa-application-website-API.csproj", "{6BFD7E62-13C2-47D1-9EC8-71A3D630897B}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visa-application-website-API", "visa-application-website-API\visa-application-website-API.csproj", "{EA407745-44FF-4EA4-B4E4-DDB3CC88A6AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6BFD7E62-13C2-47D1-9EC8-71A3D630897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6BFD7E62-13C2-47D1-9EC8-71A3D630897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6BFD7E62-13C2-47D1-9EC8-71A3D630897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6BFD7E62-13C2-47D1-9EC8-71A3D630897B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA407745-44FF-4EA4-B4E4-DDB3CC88A6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA407745-44FF-4EA4-B4E4-DDB3CC88A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA407745-44FF-4EA4-B4E4-DDB3CC88A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA407745-44FF-4EA4-B4E4-DDB3CC88A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E33338-F5B2-4CE8-99F4-B46A09945FC4}
 	EndGlobalSection
 EndGlobal

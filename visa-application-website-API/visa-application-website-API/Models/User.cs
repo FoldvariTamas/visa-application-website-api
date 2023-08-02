@@ -12,12 +12,13 @@ namespace visa_application_website_API.Models
         public ICollection<Day> Days { get; private set; }
 
 
-        /*protected User(int id, string name, string email)
+        public User(int id, string name, string email)
         {
             Id = id;
             Name = name;
             Email = email;
-        }*/
+            Days = new HashSet<Day>();
+        }
     }
 
 }
